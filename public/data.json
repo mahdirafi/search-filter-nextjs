@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "Mozzarella Stuffed Meatballs",
+    "price": 450,
+    "rating": 4.9,
+    "category": "Burger",
+    "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?w=400&h=300&fit=crop"
+  },
+  {
+    "id": 2,
+    "title": "Crispy Breaded Chicken",
+    "price": 350,
+    "rating": 4.7,
+    "category": "Burger",
+    "image": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?w=400&h=300&fit=crop"
+  },
+  {
+    "id": 3,
+    "title": "Grilled Beef Steak",
+    "price": 650,
+    "rating": 4.8,
+    "category": "Burger",
+    "image": "https://images.unsplash.com/photo-1558030006-450675393462?w=400&h=300&fit=crop"
+  },
+  {
+    "id": 4,
+    "title": "Cheesy Pepperoni Pizza",
+    "price": 500,
+    "rating": 4.9,
+    "category": "Pizza",
+    "image": "https://images.unsplash.com/photo-1594007654729-407eedc4be65?w=400&h=300&fit=crop"
+  },
+  {
+    "id": 5,
+    "title": "Chicken Biryani",
+    "price": 300,
+    "rating": 4.7,
+    "category": "Rice",
+    "image": "https://images.unsplash.com/photo-1630851840633-f96999247032?w=400&h=300&fit=crop"
+  },
+  {
+    "id": 6,
+    "title": "Veggie Burger",
+    "price": 250,
+    "rating": 4.5,
+    "category": "Burger",
+    "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?w=400&h=300&fit=crop"
+  },
+  {
+    "id": 7,
+    "title": "Pasta Alfredo",
+    "price": 400,
+    "rating": 4.6,
+    "category": "Dessert",
+    "image": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=400&h=300&fit=crop"
+  },
+  {
+    "id": 8,
+    "title": "Fried Chicken Wings",
+    "price": 320,
+    "rating": 4.8,
+    "category": "Rice",
+    "image": "https://images.unsplash.com/photo-1562967916-eb82221dfb92?w=400&h=300&fit=crop"
+  }
+]
